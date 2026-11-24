@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.qureshi_brothers.twa",
+      "sha256_cert_fingerprints": [
+        "D8:C7:C6:29:86:8A:9D:F5:5E:9B:E2:A2:6F:42:34:49:38:7E:60:AA:EE:D4:90:7E:DC:A9:D3:6C:25:AE:2D:CB"
+      ]
+    }
+  }
+]
